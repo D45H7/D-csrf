@@ -3,8 +3,6 @@
 # Don't recode it ^_^
 # This Code is Under MiT Licensed
 
-import os
-
 banner = """
 	/______________\\
 	|              |
